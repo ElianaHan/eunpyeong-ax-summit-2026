@@ -1,0 +1,6 @@
+{
+  "name": "은평 AX Summit 2026",
+  "description": "가톨릭대학교 은평성모병원 공식 모바일 초대장 - 은평 AX Summit 2026 (Eunpyeong AX Summit 2026)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
